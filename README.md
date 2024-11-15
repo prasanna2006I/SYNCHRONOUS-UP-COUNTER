@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b4bdfd2-a37b-42f5-bcb5-d51b0e1c950d)### SYNCHRONOUS-UP-COUNTER
+### SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
