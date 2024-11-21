@@ -52,6 +52,9 @@ begin
 end
 endmodule
 ```
+# TRUTH TABLE
+
+![image](https://github.com/user-attachments/assets/e7dd23c0-5a08-49a0-b16c-b5823eb952f0)
 
 
 
@@ -63,9 +66,6 @@ endmodule
 **TIMING DIAGRAM FOR IP COUNTER**
 
 ![image](https://github.com/user-attachments/assets/e8eaeac3-2304-44fe-b1b2-bb6db35985b5)
-
-**TRUTH TABLE**
-![image](https://github.com/user-attachments/assets/e7dd23c0-5a08-49a0-b16c-b5823eb952f0)
 
 
 **RESULTS**
